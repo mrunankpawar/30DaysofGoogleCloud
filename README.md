@@ -107,3 +107,6 @@ Change [ ] to [x] to check the checkboxes and track your progress throughout the
     - [ ] Identifying Bias in Mortgage Data using Cloud AI Platform and the What-if Tool
     - [ ] Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias
     - [ ] Explore Machine Learning Models with Explainable AI: Challenge Lab
+
+
+### Best Wishes folks !! #30DaysOfGoogleCloud
