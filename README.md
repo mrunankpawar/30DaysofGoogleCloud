@@ -12,6 +12,7 @@
 
 -> Change [ ] to [x] to check the checkboxes and track your progress throughout the program timeline.
 
+------------------------------------------------------------------------------------------------------------------------------
 
 * Track 1: Cloud Engineering Track
 
