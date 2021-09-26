@@ -14,7 +14,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-* Track 1: Cloud Engineering Track
+### * Track 1: Cloud Engineering Track
 
 - [ ] Getting Started: Create and Manage Cloud Resources
     - [ ] A Tour of Qwiklabs and Google Cloud
@@ -58,7 +58,7 @@
     - [ ] Continuous Delivery with Jenkins in Kubernetes Engine
     - [ ] Deploy to Kuberenetes in Google Cloud: Challenge Lab
 
-* Track 2: Data Science and Machine Learning Track
+### * Track 2: Data Science and Machine Learning Track
 
 - [ ] Getting Started: Create and Manage Cloud Resources
     - [ ] A Tour of Qwiklabs and Google Cloud
