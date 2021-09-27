@@ -2,7 +2,7 @@
 
 ### Follow the below steps to track your progress!!
 
-📍 Step 1: Fork this repository. (You can see the fork option in the top-right corner.)
+📍 Step 1: Fork and star this repository. (You can see the fork option in the top-right corner.)
 
 
 📍 Step 2: You will be redirected to your own copy of this repo.
