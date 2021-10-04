@@ -1,5 +1,7 @@
 # 30DaysofGoogleCloud
 
+## Program Timeline: 27th September to 27th October 2021
+
 ### Follow the below steps to track your progress!!
 
 📍 Step 1: Fork and star this repository. (You can see the fork option in the top-right corner.)
